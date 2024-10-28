@@ -16,6 +16,7 @@ Exercício proposto pela Qazando para automatização de API utilizando a págin
 
 
 ## Dia 3 - Automação WEB com Cypress
+Exercício proposto pela Qazando para automatização Web utilizando a página da [AutomationPratice](https://automationpratice.com.br/)
 
 
 ## Dia 4 - Testes de performance com K6
